@@ -1,5 +1,5 @@
 # Bookworm
-Steve Give Us Jobs
+Group name: Steve Give Us Jobs
 
 # Set Up
 If testing on an external device, please modify the bundle identifier in Signing & Capabilities to your own unique bundle ID.
